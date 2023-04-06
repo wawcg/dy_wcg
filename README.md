@@ -1,11 +1,11 @@
 
 ![图片](image/image1.png)
 
-Our environments: ubuntu18.04/GCC7.5/ GPU: RTX2080ti.
-Configuration required
-RAFT: https://github.com/princeton-vl/RAFT
-SOLO: https://github.com/WXinlong/SOLO
-ORBSLAM3: https://github.com/UZ-SLAMLab/ORB_SLAM3
+Our environments: ubuntu18.04/GCC7.5/ GPU: RTX2080ti.<br />
+Configuration required<br />
+RAFT: https://github.com/princeton-vl/RAFT<br />
+SOLO: https://github.com/WXinlong/SOLO<br />
+ORBSLAM3: https://github.com/UZ-SLAMLab/ORB_SLAM3<br />
 
 Our code is tested on:
 * CMake 3.10.0
@@ -17,4 +17,4 @@ Our code is tested on:
 * Sophus 1.0
 * g2o 2.1.0
 
-video address:https://www.bilibili.com/video/BV1EV4y1D7GK/
+video address:https://www.bilibili.com/video/BV1EV4y1D7GK/<br />
